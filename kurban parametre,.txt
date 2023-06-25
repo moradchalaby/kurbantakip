@@ -1,0 +1,26 @@
+büyükbaş =1
+küçükbaş=0
+
+gelecek=0
+vekalet=1
+
+işlemler
+
+Kesilmedi=0
+Kesildi=1
+
+arama -------
+<option value="0">ARANMADI</option>
+<option value="10">ARANDI</option>
+<option value="11">ULAŞILAMADI</option>
+<option value="12">NUMARA YANLIŞ</option>
+<option value="13">REFERANS ARANDI</option>
+
+video-----
+
+ <option value="0">GÖNDERİLMEDİ</option>
+ <option value="10">KENDİSİNE GÖNDERİLDİ</option>
+ <option value="11">REFERANSA GÖNDERİLDİ</option>
+ <option value="2">WHATSAPP YOK</option>
+
+referansa gönderildi = 2
